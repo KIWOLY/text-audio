@@ -30,4 +30,4 @@ Add language selection
 
 Provide voice customization (male/female, speed, pitch)
 
-Save text history with generated audio
+
