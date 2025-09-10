@@ -14,7 +14,7 @@ Supports multiple voices and languages (optional)
 
 💡 Purpose
 
-The goal of this project is to make information more accessible, especially for people who prefer listening over reading, or for creating audio versions of written content.
+The goal of this project is to make information more accessible easly, especially for people who prefer listening over reading, or for creating audio versions of written content .
 
 🛠️ Tech Stack
 
